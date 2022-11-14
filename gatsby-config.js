@@ -2,7 +2,7 @@
  * @type {import('gatsby').GatsbyConfig}
  */
 module.exports = {
-  pathPrefix: "/algorithm-library",
+  pathPrefix: "/gatsby-algorithm-library/",
   siteMetadata: {
     title: `Algorithm library`,
     siteUrl: `https://www.yourdomain.tld`,
